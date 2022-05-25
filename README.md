@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/noahsl9"><img src="https://api.daily.dev/devcards/e5a248be397a4275ba752a20b475c797.png?r=2be" height="200" width="200" alt="Ahmed Abd's Dev Card"/></a>
+<a href="https://app.daily.dev/noahsl9"><img src="https://api.daily.dev/devcards/e5a248be397a4275ba752a20b475c797.png?r=2be"  width="200" alt="Ahmed Abd's Dev Card"/></a>
 
 
 -Hi, I’m Noah, A Backend Engineer || Data Explorer
