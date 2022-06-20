@@ -1,1 +1,1 @@
--Hi, I’m Noah, A Backend Engineer | Data Explorer | scince enthusiast
+-  a Backend Engineer | Data Explorer | scince enthusiast
