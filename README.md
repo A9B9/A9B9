@@ -1,1 +1,1 @@
--  a Backend Engineer | Data Explorer | scince enthusiast
+-  A Backend Engineer | Data Explorer | science enthusiast
